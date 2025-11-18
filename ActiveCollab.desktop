@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=ActiveCollab
+Comment=Project Management & Collaboration
+Exec=$HOME/.local/bin/launch-activecollab
+Terminal=false
+Type=Application
+Icon=$HOME/.local/share/applications/icons/ActiveCollab.png
+Categories=Office;ProjectManagement;
+StartupNotify=true
+StartupWMClass=activecollab.com
